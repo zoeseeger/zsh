@@ -41,13 +41,8 @@ LSCOLORS are also defined.
 - Install oh-my-zsh in home dir
 - Install zsh-autosuggestions in `.oh-my-zsh/custom/plugins`
 
-  
-    git clone https://github.com/zoeseeger/zsh
-    cd ~/.config
-    git clone https://github.com/zoeseeger/mc-v4.8
-    rm -r ~/.config/mc
-    mv mc-v4.8 mc
 
-    mkdir -p ~/.local/share/mc/skins
-    cp ~/.config/mc/skins/*ini ~/.local/share/mc/skins/
-    mc
+    cd ~
+    git clone https://github.com/zoeseeger/zsh
+    ./zsh/install.sh
+- Restart terminal
