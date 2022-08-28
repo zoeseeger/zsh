@@ -45,4 +45,3 @@ LSCOLORS are also defined.
     cd ~
     git clone https://github.com/zoeseeger/zsh
     ./zsh/install.sh
-- Restart terminal
