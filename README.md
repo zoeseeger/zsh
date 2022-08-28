@@ -42,6 +42,5 @@ LSCOLORS are also defined.
 - Install zsh-autosuggestions in `.oh-my-zsh/custom/plugins`
 
 
-    cd ~
     git clone https://github.com/zoeseeger/zsh
-    ./zsh/install.sh
+    zsh zsh/install.sh
