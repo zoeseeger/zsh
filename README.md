@@ -40,6 +40,7 @@ LSCOLORS are also defined.
 
 - Install oh-my-zsh in home dir
 - Install zsh-autosuggestions in `.oh-my-zsh/custom/plugins`
-
-    git clone https://github.com/zoeseeger/zsh    
-    zsh zsh/install.sh
+```
+  git clone https://github.com/zoeseeger/zsh    
+  zsh zsh/install.sh
+```
