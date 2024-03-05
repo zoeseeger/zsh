@@ -43,4 +43,5 @@ LSCOLORS are also defined.
 ```
   git clone https://github.com/zoeseeger/zsh    
   zsh zsh/install.sh
+  conda config --set changeps1 False
 ```
