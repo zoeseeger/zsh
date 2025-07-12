@@ -48,6 +48,7 @@ ZSH_CUSTOM="$HOME/.oh-my-zsh/my-plugins"
 
 # dont add to prompt
 export CONDA_CHANGEPS1=false
+conda config --set changeps1 false
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
